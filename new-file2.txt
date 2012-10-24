@@ -1,2 +1,3 @@
 New file.
 Adding additional info.
+Making a conflict change not on featureA.
